@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Faker
+mysqlclient
+flask-cors
+Flask-RESTful
+Flask-JWT-Extended
+flask-swagger-ui
